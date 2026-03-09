@@ -5,3 +5,7 @@
 for(var sayac = 1; sayac <= 100; sayac = sayac + 1) {
     console.log("CEM ", sayac)
 }
+
+
+
+// sayac = sayac + 1 -------> sayac += 1 -------> sayac++
