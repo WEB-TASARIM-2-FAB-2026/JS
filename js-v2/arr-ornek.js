@@ -1,7 +1,7 @@
 // uzunluğu bilinmeyen bir arrayin bütün elemanlarını yazdıralım
 // for döngüsü kullanarak
 
-var a = [1, 2, 3, 4, 60, 90]
+// var a = [1, 2, 3, 4, 60, 90]
 
 // for (var sayac = 0; sayac < a.length; sayac++) {
 //     console.log(a[sayac])
@@ -10,5 +10,3 @@ var a = [1, 2, 3, 4, 60, 90]
 
 // sayac: 3
 // terminaldeki çıktı: 1, 2, 3, 4
-
-console.log(a[a.length - 1])
